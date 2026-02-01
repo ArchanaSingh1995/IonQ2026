@@ -1,6 +1,6 @@
 # iQuHack 2026 - Quantum Entanglement Distillation Game
 
-A competitive quantum networking game where players build subgraphs by claiming edges through entanglement distillation. We have uploaded two different approaches to this problem, one using BBPSSW distillation protocol along with local operation for error correction, as given in demo.ipynb file. The second approach uses dynamic LOCC using gradient descent  optimized parameters of different ansatz.
+A competitive quantum networking game where players build subgraphs by claiming edges through entanglement distillation. We have uploaded two different approaches to this problem, one using BBPSSW distillation protocol along with local operation for error correction, as given in demo.ipynb file. The second approach uses dynamic LOCC using gradient descent  optimized parameters of different ansatz in the DLOCC.ipynb file.
 
 ## Quick Start
 
